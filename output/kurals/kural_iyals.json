@@ -1,0 +1,359 @@
+{
+  "Ascetic Virtue": {
+    "adigaram": [
+      "Compassion",
+      "Abstinence from Flesh",
+      "Penance",
+      "Imposture",
+      "The Absence of Fraud",
+      "Veracity",
+      "Restraining Anger",
+      "Not doing Evil",
+      "Not killing",
+      "Instability",
+      "Renunciation",
+      "Truth-Conciousness",
+      "Curbing of Desire"
+    ],
+    "adigaram_no": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "kural_paal": "Virtue"
+  },
+  "Domestic Virtue": {
+    "adigaram": [
+      "Domestic Life",
+      "The Worth of a Wife",
+      "The Wealth of Children",
+      "The Possession of Love",
+      "Hospitality",
+      "The Utterance of Pleasant Words",
+      "Gratitude",
+      "Impartiality",
+      "The Possession of Self-restraint",
+      "The Possession of Decorum",
+      "Not coveting another's Wife",
+      "The Possession of Patience, Forbearance",
+      "Not Envying",
+      "Not Coveting",
+      "Not Backbiting",
+      "Against Vain Speaking",
+      "Dread of Evil Deeds",
+      "Duty to Society",
+      "Giving",
+      "Renown"
+    ],
+    "adigaram_no": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "kural_paal": "Virtue"
+  },
+  "Fate": {
+    "adigaram": [
+      "Fate"
+    ],
+    "adigaram_no": [
+      "38"
+    ],
+    "kural_paal": "Virtue"
+  },
+  "Friendship": {
+    "adigaram": [
+      "Friendship",
+      "Investigation in forming Friendships",
+      "Familiarity",
+      "Evil Friendship",
+      "Unreal Friendship",
+      "Folly",
+      "Ignorance",
+      "Hostility",
+      "The Might of Hatred",
+      "Knowing the Quality of Hate",
+      "Enmity within",
+      "Not Offending the Great",
+      "Being led by Women",
+      "Wanton Women",
+      "Not Drinking Palm-Wine",
+      "Gambling",
+      "Medicine"
+    ],
+    "adigaram_no": [
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "Ministers of State": {
+    "adigaram": [
+      "The Office of Minister of state",
+      "Power of Speech",
+      "Purity in Action",
+      "Power in Action",
+      "Modes of Action",
+      "The Envoy",
+      "Conduct in the Presence of the King",
+      "The Knowledge of Indications",
+      "The Knowledge of the Council Chamber",
+      "Not to dread the Council"
+    ],
+    "adigaram_no": [
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "Miscellaneous": {
+    "adigaram": [
+      "Nobility",
+      "Honour",
+      "Greatness",
+      "Perfectness",
+      "Courtesy",
+      "Wealth without Benefaction",
+      "Shame",
+      "The Way of Maintaining the Family",
+      "Farming",
+      "Poverty",
+      "Mendicancy",
+      "The Dread of Mendicancy",
+      "Baseness"
+    ],
+    "adigaram_no": [
+      "96",
+      "97",
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "Prologue": {
+    "adigaram": [
+      "The Praise of God",
+      "The Blessing of Rain",
+      "The Greatness of Ascetics",
+      "Assertion of the Strength of Virtue"
+    ],
+    "adigaram_no": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "kural_paal": "Virtue"
+  },
+  "Royalty": {
+    "adigaram": [
+      "The Greatness of a King",
+      "Learning",
+      "Ignorance",
+      "Hearing",
+      "The Possession of Knowledge",
+      "The Correction of Faults",
+      "Seeking the Aid of Great Men",
+      "Avoiding mean Associations",
+      "Acting after due Consideration",
+      "The Knowledge of Power",
+      "Knowing the fitting Time",
+      "Knowing the Place",
+      "Selection and Confidence",
+      "Selection and Employment",
+      "Cherishing Kinsmen",
+      "Unforgetfulness",
+      "The Right Sceptre",
+      "The Cruel Sceptre",
+      "Absence of Terrorism",
+      "Benignity",
+      "Detectives",
+      "Energy",
+      "Unsluggishness",
+      "Manly Effort",
+      "Hopefulness in Trouble"
+    ],
+    "adigaram_no": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "The Essentials of a State": {
+    "adigaram": [
+      "The Land",
+      "The Fortification"
+    ],
+    "adigaram_no": [
+      "74",
+      "75"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "The Excellence of an Army": {
+    "adigaram": [
+      "The Excellence of an Army",
+      "Military Spirit"
+    ],
+    "adigaram_no": [
+      "77",
+      "78"
+    ],
+    "kural_paal": "Wealth"
+  },
+  "The Post-marital love": {
+    "adigaram": [
+      "Separation unendurable",
+      "Complainings",
+      "Eyes consumed with Grief",
+      "The Pallid Hue",
+      "The Solitary Anguish",
+      "Sad Memories",
+      "The Visions of the Night",
+      "Lamentations at Eventide",
+      "Wasting Away",
+      "Soliloquy",
+      "Reserve Overcome",
+      "Mutual Desire",
+      "The Reading of the Signs",
+      "Desire for Reunion",
+      "Expostulation with Oneself",
+      "Pouting",
+      "Feigned Anger",
+      "The Pleasures of Temporary Variance"
+    ],
+    "adigaram_no": [
+      "116",
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "132",
+      "133"
+    ],
+    "kural_paal": "Love"
+  },
+  "The Pre-marital love": {
+    "adigaram": [
+      "The Pre-marital love",
+      "Recognition of the Signs",
+      "Rejoicing in the Embrace",
+      "The Praise of her Beauty",
+      "Declaration of Love's special Excellence",
+      "The Abandonment of Reserve",
+      "The Announcement of the Rumour"
+    ],
+    "adigaram_no": [
+      "109",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "115"
+    ],
+    "kural_paal": "Love"
+  },
+  "Way of Making Wealth": {
+    "adigaram": [
+      "Way of Accumulating Wealth"
+    ],
+    "adigaram_no": [
+      "76"
+    ],
+    "kural_paal": "Wealth"
+  }
+}
